@@ -837,7 +837,7 @@ footer a i:hover, .info a i:hover, #line ul li i:hover {
         border-color: transparent white transparent transparent;
     }
   
-    .dark-left::after, .right::after {
+    .dark-left::after, .dark-right::after {
         left: 15px;
     }
   
